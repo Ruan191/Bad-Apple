@@ -5,11 +5,11 @@ using VisualConsole.Animations;
 
 namespace VisualConsole
 {
-    class Example : Play
+    class BadApple : Play
     {
         //Example code on how to use the framework
 
-        public Example()
+        public BadApple()
         {
             Start += _Start;
             Update += _Update;

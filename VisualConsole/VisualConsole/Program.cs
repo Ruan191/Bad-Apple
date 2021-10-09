@@ -59,7 +59,7 @@ namespace VisualConsole
 
         static void InitializeObjects()
         {
-            Example ex = new Example();
+            BadApple ex = new BadApple();
         }
     }
 }
