@@ -1,0 +1,7 @@
+{
+    "ConsoleName" : "Bad Apple",
+    "ControlsEnabled" : true,
+    "UpdateEnabled" : true,
+    "PauseTimeBetweenUpdates" : 0,
+    "DebugEnabled": false
+}
