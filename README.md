@@ -5,6 +5,8 @@
 
 VisualConsole: https://github.com/Ruan191/VisualConsole
 
+Note: First time setup might take a while. Once its done press Enter to start it
+
 Requires:
 * dotnet5
 * Newtonsoft.Json
